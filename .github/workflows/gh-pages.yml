@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+env:
+  ACTIONS_RUNNER_DEBUG: true
+
 jobs:
   build-and-deploy:
     permissions:
@@ -27,7 +30,6 @@ jobs:
         cd .markpub
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        echo $(pip list)
 
     - name: install node modules
       working-directory: .markpub
