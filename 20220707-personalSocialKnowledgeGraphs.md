@@ -20,5 +20,8 @@ My free-associative notes:
  - Note: I ended up copying this Medium post into Bear where I can
    export it as Markdown and maybe make something of it in an Obsidian
    vault. (MyMileageMayVary)
-  
+
+### 2025-02-23
+
+/ the current decentralized nexus (am i using that word correctly?) of socials seems to be both fractured as well as federated //
   
