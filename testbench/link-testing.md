@@ -5,6 +5,12 @@
  - this next line will test how that works with the current version of
    MarkPub
    
-   [[../20210902-BethSawin.md]]  
+   [[../20210902-BethSawin.md]]
+versus
+   [[../20210902-BethSawin]]
+versus
+   [[20210902-BethSawin]]
+
+   
    
  
